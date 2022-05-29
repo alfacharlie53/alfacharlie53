@@ -12,13 +12,16 @@
 
   ##  🛠   Pilha de tecnologia
 
-  
-   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-  <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg">
-  <img align="center" alt="David-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg">
-  <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original .svg" />
-  <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original .svg" />
-  <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original .svg" />
-  <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original .svg" />
-  <img align="center" alt="David-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original .svg" />
-  </div>
+![ JavaScript ](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![ Node.js ](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
+![ HTML ](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)  
+![ CSS ](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)  
+![ Reagir ](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
+![ Git ](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![ GitHub ](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
+![ Markdown ](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)  
+![ Código do Visual Studio ](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)  
+![ PostgreSQL ](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)  
+![ SQLite ](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)  
+
+<br><br>
