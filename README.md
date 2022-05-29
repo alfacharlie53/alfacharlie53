@@ -1,4 +1,4 @@
-### Hi ther! sou oalfacharlie e bem-vindo aos meus projetos!
+### Hi ther! sou alfacharlie e seja bem-vido aos meus projetos!
 
 - 🔭  Apaixonado por tecnologia e aplicações mobile
 - 🌱  Estudante Python
